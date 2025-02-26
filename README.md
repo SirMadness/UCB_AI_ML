@@ -27,6 +27,6 @@ For those that attend a bar more than once a month and are over 25 compared to t
 The rate of coupon acceptance is:
 	0.73 for age over 25 and at least 1 visit / month
 	0.29 for age over 25 and < 1 visit / month
-    
-![alt text]('./images/Rate_25years_1barVisit.png')
+
+![alt text]('https://github.com/SirMadness/UCB_AI_ML/blob/f3d7e214ac96147d56584357fd20fbd17f1dfea6/Module_5/images/Rate_25years_1barVisit.png')
 
